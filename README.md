@@ -54,7 +54,7 @@ I am a Tech enthusiast who like to learn new things 🌱
 <img align="right" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
 - 👨‍💻 **Full Stack Developer and Cross Mobile Developer**\
-📆 2019 - 2021\
+📆 2019 - Actual Job\
 📍 **OPT-NC** - Nouméa, New-Caledonia
 
 <img align="right" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
