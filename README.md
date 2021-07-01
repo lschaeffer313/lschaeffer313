@@ -33,10 +33,10 @@ I am a Tech enthusiast who like to learn new things 🌱
 <img align="left" alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
 <img align="left" alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<img align="left" alt="java" src="https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java&logoColor=white" />
 
 <br><br>
 
+<img align="left" alt="java" src="https://img.shields.io/badge/java-red.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF" />
 <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
