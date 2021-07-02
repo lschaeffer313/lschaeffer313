@@ -25,8 +25,6 @@ I am a Tech enthusiast who like to learn new things 🌱
   Expertise
 </h1>
 
-<div align="center">
-
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -41,7 +39,6 @@ I am a Tech enthusiast who like to learn new things 🌱
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF" />
 <img align="left" alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
- </div>
 <br><br>
 
 <h1 align='center'>
