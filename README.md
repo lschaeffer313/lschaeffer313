@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Full Stack and mobile developer from New Caledonia.
+  A Full Stack and cross mobile developer from New Caledonia.
 </p>
 
 I am a Tech enthusiast who like to learn new things 🌱
