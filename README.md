@@ -8,7 +8,7 @@
 
 I am a Tech enthusiast who like to learn new things 🌱
 - 🔭 Working on frontend and backend project using Angular/Spring Boot/Postgres, expressjs/DynamoDB but also mobile app using Ionic/Angular/Cordova
-- 🌱 Currently learning AWS and trying to get the Developer Associate Certification
+- 🌱 Currently learning AWS and Flutter
 - 📫 How to reach me :
 
 
