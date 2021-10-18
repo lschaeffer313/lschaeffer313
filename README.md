@@ -8,7 +8,7 @@
 
 I am a Tech enthusiast who like to learn new things 🌱
 - 🔭 Working on frontend and backend project using Angular/Spring Boot/Postgres, expressjs/DynamoDB but also mobile app using Ionic/Angular/Cordova
-- 🌱 Currently learning AWS and Express.js
+- 🌱 Currently learning AWS and React
 - 📫 How to reach me :
 
 
@@ -29,7 +29,6 @@ I am a Tech enthusiast who like to learn new things 🌱
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular" />
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-<img align="left" alt="Expressjs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
 <br><br>
