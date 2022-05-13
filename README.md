@@ -3,7 +3,7 @@
 I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledonia. Tech enthusiast who like to learn new things 🌱 :
 
 - 🔭 Working on frontend and backend project using Angular/Spring Boot/Postgres and creating mobile app with Flutter
-- 🌱 Currently learning GCP (Google Cloud Platform) and Go
+- 🌱 Currently learning Swift for developing on iOS
 - 📫 How to reach me :
 
 [![alt text][Linkedin]](https://www.linkedin.com/in/laurent-schaeffer-b1174a173/)
@@ -21,7 +21,8 @@ I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledoni
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
