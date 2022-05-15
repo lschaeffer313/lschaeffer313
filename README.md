@@ -3,7 +3,7 @@
 I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledonia. Tech enthusiast who like to learn new things 🌱 :
 
 - 🔭 Working on frontend and backend project using Angular/Spring Boot/Postgres and creating mobile app with Flutter
-- 🌱 Currently learning Swift for developing on iOS
+- 🌱 Currently learning Flutter for developping ios and android App
 - 📫 How to reach me :
 
 [![alt text][Linkedin]](https://www.linkedin.com/in/laurent-schaeffer-b1174a173/)
