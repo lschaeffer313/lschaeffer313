@@ -2,21 +2,21 @@
 
 I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledonia. Tech enthusiast who like to learn new things 🌱 :
 
-- 🔭 Working on frontend and backend project using Angular/Spring Boot/Postgres and creating mobile app with Flutter
-- 🌱 Currently learning Flutter for developping ios and android App
+- 🔭 Working on frontend and backend project using Angular/Spring Boot/Quarkus/Postgres and creating mobile app with Flutter
+- 🌱 Currently learning Flutter for developping IOS and Android App
 - 📫 How to reach me :
 
 [![alt text][Linkedin]](https://www.linkedin.com/in/laurent-schaeffer-b1174a173/)
-[![alt text][Gmail]](mailto:laurent.schaeffer313@gmail.com)
+[![alt text][Gmail]](mailto:laurent.schaeffer313@‡gmail.com)
 
-# 🛠 Skill Set
- 
+## 🛠 Skill Set
+
 <table><tr><td valign="top" width="33%">
 
+### `Back-end`
 
-
-### Back-end  
 <div align="center">  
+<img style="margin: 10px" src="https://quarkus.io/assets/images/brand/quarkus_icon_reverse.svg" alt="Quarkus" height="75" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="75" />  
@@ -27,9 +27,8 @@ I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledoni
 
 </td><td valign="top" width="33%">
 
+### `Front-end`
 
-
-### Front-end  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="75" />  
@@ -40,49 +39,50 @@ I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledoni
 
 </td><td valign="top" width="33%">
 
+### `DevOps`
 
-
-### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="75" />
+<img style="margin: 10px" src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" alt="GitHub Actions" height="75" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" />  
 </div>
 
 </td></tr></table>  
 
-# 🧔🏻‍♂️ Experience
+## 🧔🏻‍♂️ Experience
 
-## **OPT-NC**
+### **DEVEO NC**
+
+### 👨‍💻 **Full Stack Developer**
+
+### 📆 2022 - 2024
+
+![alt text][Quarkus] ![alt text][Spring] ![alt text][Java] ![alt text][Postgres] ![alt text][NodeJS] ![alt text][Angular] ![alt text][Typescript] ![alt text][Ionic]
+
+### **OPT-NC**
 
 ### 👨‍💻 **Full Stack Developer and Cross Mobile Developer**
 
 ### 📆 2019 - 2022
 
-### 🗺 Nouméa, New-Caledonia
-
 ![alt text][Spring] ![alt text][Java] ![alt text][Postgres] ![alt text][Angular] ![alt text][Typescript] ![alt text][Ionic]
 
+### **IRD NC**
 
-## **IRD NC**
-
-### 👨‍💻 **Full Stack Developer**
+### 🧑‍💻 **Full Stack Developer**
 
 ### 📆 2017 - 2019
-
-### 🗺 Nouméa, New-Caledonia
 
 ![alt text][Django]
 ![alt text][Python]
 ![alt text][Postgres]
 
 <!-- Image -->
-[Greetings]: https://rishavanand.github.io/static/images/greetings.gif "Greetings"
-
 [Linkedin]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Linkedin"
 
 [Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Gmail"
@@ -95,6 +95,8 @@ I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledoni
 
 [Ionic]: https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white "Ionic"
 
+[Quarkus]: https://img.shields.io/badge/quarkus%20-%23316192.svg?&style=for-the-badge&logo=quarkus&logoColor=white "Quarkus"
+
 [Spring]: https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white "Spring"
 
 [Java]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "Java"
@@ -104,7 +106,3 @@ I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledoni
 [Django]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green "Django"
 
 [Python]: https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF "Python"
-
-[AWS]: https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge "AWS"
-
-[GCP]: https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white "Google Cloud Platform"
