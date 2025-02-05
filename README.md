@@ -56,6 +56,14 @@ I'm Laurent Schaeffer, a Full Stack and cross mobile developer from New Caledoni
 
 ## 🧔🏻‍♂️ Experience
 
+### **DINUM NC**
+
+### 👨‍💻 **Full Stack Developer**
+
+### 📆 2025 - Today
+
+![alt text][Spring] ![alt text][Java] ![alt text][Postgres] ![alt text][NodeJS] ![alt text][Angular] ![alt text][Typescript]
+
 ### **DEVEO NC**
 
 ### 👨‍💻 **Full Stack Developer**
